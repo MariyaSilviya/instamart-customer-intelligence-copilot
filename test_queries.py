@@ -1,29 +1,3 @@
-# import sqlite3
-# import pandas as pd
-
-# # Connect to the SQLite database
-# conn = sqlite3.connect("data/instamart.db")
-
-# # Read the SQL file
-# with open("sql/queries.sql", "r", encoding="utf-8") as f:
-#     sql_script = f.read()
-
-# # Split the script by semicolons into individual queries
-# queries = [q.strip() for q in sql_script.split(";") if q.strip()]
-
-# # Execute each query and print results
-# for i, query in enumerate(queries, 1):
-#     print(f"\n--- Running Query {i} ---")
-#     try:
-#         df = pd.read_sql(query, conn)
-#         print(df.head(10)) # Print first 10 rows of result
-#     except Exception as e:
-#         print(f"Error in Query {i}: {e}")
-
-# conn.close()
-
-
-
 import sqlite3
 import pandas as pd
 
