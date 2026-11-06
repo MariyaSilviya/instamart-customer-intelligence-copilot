@@ -1,0 +1,20 @@
+feature,coefficient,direction,absolute_coefficient
+numeric__frequency,-1.2810888998791996,Decreases predicted lapse,1.2810888998791996
+categorical__favourite_category_Electronics,-0.3781837747117561,Decreases predicted lapse,0.3781837747117561
+categorical__favourite_category_Snacks,-0.20260472315468495,Decreases predicted lapse,0.20260472315468495
+categorical__favourite_category_Grocery,-0.1997597769429463,Decreases predicted lapse,0.1997597769429463
+categorical__city_Delhi,-0.183823188856708,Decreases predicted lapse,0.183823188856708
+categorical__city_Pune,0.11272683614107071,Increases predicted lapse,0.11272683614107071
+categorical__gender_male,-0.100849357158337,Decreases predicted lapse,0.100849357158337
+numeric__cancellation_rate,-0.10071764375026329,Decreases predicted lapse,0.10071764375026329
+categorical__city_Hyderabad,-0.09416768391362497,Decreases predicted lapse,0.09416768391362497
+categorical__gender_unknown,-0.07792616461939632,Decreases predicted lapse,0.07792616461939632
+categorical__favourite_category_Personal Care,0.06721426424973073,Increases predicted lapse,0.06721426424973073
+numeric__age,0.046575714436323856,Increases predicted lapse,0.046575714436323856
+numeric__tenure_days,-0.04609794447696379,Decreases predicted lapse,0.04609794447696379
+numeric__monetary,0.029474918597192,Increases predicted lapse,0.029474918597192
+numeric__recency,-0.028491789887591566,Decreases predicted lapse,0.028491789887591566
+numeric__avg_discount,0.026693457240331397,Increases predicted lapse,0.026693457240331397
+numeric__avg_delivery_time,0.026489535796676504,Increases predicted lapse,0.026489535796676504
+categorical__city_Mumbai,-0.02471501487016943,Decreases predicted lapse,0.02471501487016943
+categorical__city_Chennai,-0.002010820840021829,Decreases predicted lapse,0.002010820840021829

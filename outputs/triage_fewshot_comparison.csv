@@ -1,0 +1,3 @@
+approach,accuracy,token_usage,retry_count
+Zero-shot,0.7875,9822,19
+Few-shot,0.91875,14897,19

@@ -1,0 +1,6 @@
+,billing,delivery,technical,fraud,invalid
+billing,38,0,0,0,1
+delivery,0,36,0,0,7
+technical,0,0,39,0,0
+fraud,0,0,0,34,5
+invalid,0,0,0,0,0

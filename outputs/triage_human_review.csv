@@ -1,0 +1,18 @@
+ticket_id,customer_id,true_category,predicted_category,reason,status,priority,assigned_team,email_redactions,phone_redactions,order_id_redactions,llm_calls,prompt_tokens,completion_tokens,total_tokens
+T0159,C1172,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0163,C0322,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0116,C0294,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,2,80,7,87
+T0016,C0962,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0154,C1071,delivery,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0084,C0569,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0162,C0665,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0066,C1199,delivery,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0160,C0670,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0148,C1057,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0070,C1150,delivery,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0157,C1107,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0076,C0418,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0164,C0794,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0158,C1106,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0161,C0202,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0065,C0205,billing,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,2,76,7,83

@@ -1,0 +1,3 @@
+configuration,chunks,retrieval_matches,fact_matches
+"40 words, 10 overlap",15,14,14
+"40 words, 0 overlap",13,14,12

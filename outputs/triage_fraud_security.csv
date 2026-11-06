@@ -1,0 +1,35 @@
+ticket_id,customer_id,true_category,predicted_category,reason,status,priority,assigned_team,email_redactions,phone_redactions,order_id_redactions,llm_calls,prompt_tokens,completion_tokens,total_tokens
+T0024,C0486,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0080,C0910,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0124,C0139,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0136,C0891,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0008,C1177,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0072,C0218,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0156,C0328,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0152,C0530,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,2,80,7,87
+T0144,C0521,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0036,C0173,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0060,C0784,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0048,C0733,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0120,C0208,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0064,C0848,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0092,C0585,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0104,C0815,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0012,C0335,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0028,C1036,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0100,C0754,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,2,80,7,87
+T0068,C0208,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,2,80,7,87
+T0052,C1005,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0040,C0256,fraud,fraud,parsed from text response,classified_keyword,HIGH,Security Team,0,1,1,1,80,11,91
+T0108,C0340,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0004,C0721,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0088,C0852,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0096,C0324,fraud,fraud,parsed from text response,classified_keyword,HIGH,Security Team,0,1,1,1,80,11,91
+T0132,C0282,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0032,C1139,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0056,C0140,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0112,C0432,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0020,C0460,fraud,fraud,parsed from text response,classified_keyword,HIGH,Security Team,0,1,1,1,80,11,91
+T0044,C0862,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0140,C1173,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0128,C0467,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81

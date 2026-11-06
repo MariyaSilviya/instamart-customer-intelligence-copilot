@@ -1,0 +1,165 @@
+ticket_id,customer_id,true_category,predicted_category,reason,status,priority,assigned_team,email_redactions,phone_redactions,order_id_redactions,llm_calls,prompt_tokens,completion_tokens,total_tokens
+T0024,C0486,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0073,C0080,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0095,C1087,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0159,C1172,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0080,C0910,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0124,C0139,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0061,C0812,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0118,C0355,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0037,C1156,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,76,7,83
+T0002,C0881,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,2,74,7,81
+T0163,C0322,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0031,C0958,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0047,C0756,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0063,C0892,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0121,C0852,billing,billing,parsed from text response,classified_keyword,NORMAL,Customer Support,1,0,1,1,76,11,87
+T0139,C0829,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0115,C1025,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0123,C0674,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0116,C0294,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,2,80,7,87
+T0136,C0891,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0008,C1177,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0102,C0985,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0072,C0218,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0101,C1151,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0059,C0764,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0049,C0078,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0153,C0150,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,2,72,7,79
+T0050,C0117,delivery,delivery,parsed from text response,classified_keyword,NORMAL,Customer Support,0,1,1,1,74,11,85
+T0147,C0125,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0074,C1119,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0156,C0328,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0145,C0751,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0053,C0447,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,76,7,83
+T0134,C0608,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0039,C0298,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,2,83,7,90
+T0016,C0962,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0055,C1063,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0130,C0692,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0099,C1000,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0062,C0403,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0013,C0507,billing,billing,parsed from text response,classified_keyword,NORMAL,Customer Support,1,0,1,1,76,11,87
+T0137,C0978,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0152,C0530,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,2,80,7,87
+T0144,C0521,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0094,C0863,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0021,C0909,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0077,C0082,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0036,C0173,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0113,C0077,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0060,C0784,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0043,C0942,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,2,67,7,74
+T0048,C0733,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0154,C1071,delivery,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0125,C1156,billing,billing,parsed from text response,classified_keyword,NORMAL,Customer Support,1,0,1,1,72,11,83
+T0146,C1024,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0107,C0783,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0011,C0233,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0017,C0028,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0111,C1033,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,2,67,7,74
+T0041,C0464,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,76,7,83
+T0120,C0208,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0122,C0404,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0001,C0851,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,76,7,83
+T0064,C0848,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0092,C0585,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0038,C0882,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0155,C0285,technical,technical,parsed from text response,classified_keyword,NORMAL,Customer Support,1,0,1,2,83,11,94
+T0104,C0815,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0012,C0335,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0084,C0569,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0051,C1049,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0143,C0339,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0035,C1175,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0028,C1036,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0100,C0754,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,2,80,7,87
+T0022,C1160,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0082,C0168,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0127,C0976,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0162,C0665,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0109,C1080,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,76,7,83
+T0046,C0442,delivery,delivery,parsed from text response,classified_keyword,NORMAL,Customer Support,0,1,1,1,78,11,89
+T0081,C0559,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0007,C0682,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0068,C0208,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,2,80,7,87
+T0085,C0031,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0075,C0901,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0052,C1005,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0066,C1199,delivery,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0151,C1011,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0131,C0069,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0006,C0177,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0135,C0303,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,2,78,7,85
+T0079,C1128,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0040,C0256,fraud,fraud,parsed from text response,classified_keyword,HIGH,Security Team,0,1,1,1,80,11,91
+T0093,C0131,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0089,C0860,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0034,C1188,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0033,C0714,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0160,C0670,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0087,C0797,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0009,C0758,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,2,76,7,83
+T0108,C0340,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0054,C0571,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0025,C0610,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0004,C0721,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0148,C1057,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0088,C0852,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0030,C0015,delivery,delivery,parsed from text response,classified_keyword,NORMAL,Customer Support,1,0,1,1,75,11,86
+T0067,C0704,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,2,67,7,74
+T0029,C0885,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0129,C0237,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,76,7,83
+T0105,C0063,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0045,C0628,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0069,C0491,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0010,C1190,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0023,C0400,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0106,C0197,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,2,75,7,82
+T0015,C0488,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0091,C0796,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0126,C0996,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0096,C0324,fraud,fraud,parsed from text response,classified_keyword,HIGH,Security Team,0,1,1,1,80,11,91
+T0149,C0770,billing,billing,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,76,7,83
+T0070,C1150,delivery,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0026,C0677,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0097,C0932,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,2,72,7,79
+T0132,C0282,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0027,C0232,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0119,C0629,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0157,C1107,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0058,C0287,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0110,C0056,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0018,C1135,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0032,C1139,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0003,C0591,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,2,67,7,74
+T0042,C0508,delivery,delivery,parsed from text response,classified_keyword,NORMAL,Customer Support,0,1,1,1,74,11,85
+T0056,C0140,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0114,C0619,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0083,C0356,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,1,0,1,67,7,74
+T0138,C0720,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0057,C1199,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0076,C0418,fraud,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,1,80,7,87
+T0019,C0579,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,2,83,7,90
+T0103,C0499,technical,technical,keyword match,classified_json,NORMAL,Customer Support,0,0,1,1,78,7,85
+T0164,C0794,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0090,C0322,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0112,C0432,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0133,C0717,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0014,C0579,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,75,7,82
+T0158,C1106,none,human_review,empty ticket sent for human review,skipped_empty,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0020,C0460,fraud,fraud,parsed from text response,classified_keyword,HIGH,Security Team,0,1,1,1,80,11,91
+T0142,C0605,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,78,7,85
+T0086,C1132,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,2,74,7,81
+T0141,C0376,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0044,C0862,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0117,C0465,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0078,C0586,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0140,C1173,fraud,fraud,keyword match,classified_json,HIGH,Security Team,0,1,1,1,80,7,87
+T0071,C0966,technical,technical,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,83,7,90
+T0161,C0202,delivery,human_review,long ticket sent for human review,skipped_long,NORMAL,Customer Support,0,0,0,0,0,0,0
+T0150,C0622,delivery,delivery,keyword match,classified_json,NORMAL,Customer Support,0,1,1,1,74,7,81
+T0065,C0205,billing,human_review,invalid category returned: shipping,flagged_invalid_output,NORMAL,Customer Support,0,1,1,2,76,7,83
+T0128,C0467,fraud,fraud,keyword match,classified_json,HIGH,Security Team,1,0,0,1,74,7,81
+T0005,C0404,billing,billing,keyword match,classified_json,NORMAL,Customer Support,1,0,1,1,72,7,79
+T0098,C0343,delivery,delivery,parsed from text response,classified_keyword,NORMAL,Customer Support,0,1,1,1,74,11,85
